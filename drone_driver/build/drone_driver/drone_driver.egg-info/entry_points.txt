@@ -1,0 +1,3 @@
+[console_scripts]
+drone_controller = drone_driver.attempt_at_control:main
+

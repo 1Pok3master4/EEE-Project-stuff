@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+drone_driver/__init__.py
+drone_driver/attempt_at_control.py
+drone_driver/test.py
+drone_driver.egg-info/PKG-INFO
+drone_driver.egg-info/SOURCES.txt
+drone_driver.egg-info/dependency_links.txt
+drone_driver.egg-info/entry_points.txt
+drone_driver.egg-info/requires.txt
+drone_driver.egg-info/top_level.txt
+drone_driver.egg-info/zip-safe
+resource/drone_driver

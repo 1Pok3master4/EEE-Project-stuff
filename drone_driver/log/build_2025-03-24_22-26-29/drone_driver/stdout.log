@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating drone_driver.egg-info
+writing drone_driver.egg-info/PKG-INFO
+writing dependency_links to drone_driver.egg-info/dependency_links.txt
+writing entry points to drone_driver.egg-info/entry_points.txt
+writing requirements to drone_driver.egg-info/requires.txt
+writing top-level names to drone_driver.egg-info/top_level.txt
+writing manifest file 'drone_driver.egg-info/SOURCES.txt'
+reading manifest file 'drone_driver.egg-info/SOURCES.txt'
+writing manifest file 'drone_driver.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/install/drone_driver/lib/python3.10/site-packages/drone-driver.egg-link (link to .)
+Installing drone_controller script to /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/install/drone_driver/lib/drone_driver
+
+Installed /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/build/drone_driver
+running symlink_data
+creating /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/install/drone_driver/share/ament_index
+creating /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/install/drone_driver/share/ament_index/resource_index
+creating /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/install/drone_driver/share/ament_index/resource_index/packages
+symbolically linking /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/build/drone_driver/resource/drone_driver -> /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/install/drone_driver/share/ament_index/resource_index/packages
+symbolically linking /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/build/drone_driver/package.xml -> /home/mocha1410/ros2_ws/src/ROS2-Drone-Basic-Course-for-Beginners/drone_driver/install/drone_driver/share/drone_driver
